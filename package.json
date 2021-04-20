@@ -1,6 +1,6 @@
 {
   "name": "@luciana001/holidates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package holidays Publics of this year",
   "main": "index.js",
   "scripts": {
