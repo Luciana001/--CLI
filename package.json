@@ -22,7 +22,7 @@
     "semver": "^7.3.5"
   },
   "bin": {
-    "holidates": "index.js"
+    "holidates": "./index.js"
   },
   "devDependencies": {}
 }
